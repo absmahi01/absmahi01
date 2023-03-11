@@ -1,30 +1,52 @@
-<h1 align="center">Hi 👋, I'm Abu Bakar Siddique Mahi.</h1>
-<h3 align="center">A passionate Data Science learner from Bangladesh.</h3>
+<a target="_blank" href="https://absmahi01.github.io/"><img width="550" align="right" src="Programmer-I.gif"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=absmahi01&label=Profile%20views&color=0e75b6&style=flat" alt="absmahi01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absmahi01" alt="absmahi01" /></a> </p>
+# Abu Bakar Siddique Mahi
 
-- 🔭 I’m currently working on **some personal projects.**
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning.**
+:wave: Hi there, My name is Abu Bakar Siddique Mahiu hailing from Dhaka, Bangladesh. I am a student at The University of Asia Pacific. I am learning Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
+Love to play with data and develop Machine Learning models to help make data-driven solutions. 
 
-- 👨‍💻 All of my projects are available at [absmahi01.github.io](absmahi01.github.io)
+My research interests are Computer Vision and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. 
 
-- 📫 How to reach me **absmahi17500@gmail.com**
+### Available On-
+<a href="https://www.facebook.com/absmahi.1rc="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/abu-bakar-siddique-mahi-3829bb17b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/absmahi src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://absmahi01.github.io/Website/"><img src="https://img.shields.io/badge/WebSite-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/absmahi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="absmahi.1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/absmahi_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="absmahi_1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/absmahi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="absmahi.1" height="30" width="40" /></a>
+## {...} My Stack
+
+```json
+{
+   "Proficient": ["Python", "Java", "C", "C++", "SQL","HTML","CSS"]
+   "Backend": ["Django"],
+   "Database": ["MySql"],
+   "AI framework":["Keras","Scikit-learn","Tensorflow"],
+   "Modules & Library":["Pandas","Numpy","Matplotlib & seaborn","Selenium","nltk"]
+                          
+   "Machine Learning Algorithms": ["LinearRegression","LogisticRegression","KNeighborsRegressor","SVR","DecisionTree",
+                                    "RandomForest","SVM","KNN","Naive Bayes","XGBoost", "AdaBoostClassifier",
+                                    "K-means","DBSCAN","Model Validation","Feature Selection","Dimensionality Reduction"],
+   
+   "Deep Learning": ["CNN","LSTM","Bi-LSTM","Transfer Learning","Model optimization and quantization",
+                                    "TinyML","Pipelining","Keras sequential and functional API"]
+}
+```
+
+
+
+
+<p align="center">
+<a href="https://github.com/absmahi01">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RashikRahman&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absmahi01&show_icons=true&locale=en&layout=compact" alt="absmahi01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absmahi01&show_icons=true&locale=en" alt="absmahi01" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=absmahi01&" alt="absmahi01" /></p>
+ 
+</p>
