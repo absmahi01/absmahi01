@@ -9,8 +9,7 @@ Love to play with data and develop Machine Learning models to help make data-dri
 
 My research interests are Computer Vision and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. 
 
-
-<p>### Available On-</p>
+### Available On-
 <a href="https://www.linkedin.com/in/abu-bakar-siddique-mahi-3829bb17b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.instagram.com/absmahi.1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://absmahi01.github.io/"><img src="https://img.shields.io/badge/WebSite-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
