@@ -14,6 +14,9 @@ My research interests are Computer Vision and NLP. Let’s connect if you want t
 <a href="https://www.instagram.com/absmahi.1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://absmahi01.github.io/"><img src="https://img.shields.io/badge/WebSite-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://www.facebook.com/absmahi.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+<a href="https://www.kaggle.com/abubakarsiddiquemahi"><img src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white" /></a> 
+
+
 ## {...} My Stack
 
 ```json
