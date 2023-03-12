@@ -4,7 +4,7 @@
 # Abu Bakar Siddique Mahi
 
 
-:wave: Hi there, My name is Abu Bakar Siddique Mahiu hailing from Dhaka, Bangladesh. I am a student at The University of Asia Pacific. I am learning Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
+:wave: Hi there, My name is Abu Bakar Siddique Mahi hailing from Dhaka, Bangladesh. I am a student at The University of Asia Pacific. I am learning Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
 Love to play with data and develop Machine Learning models to help make data-driven solutions. 
 
 My research interests are Computer Vision and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. 
