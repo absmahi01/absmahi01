@@ -53,10 +53,10 @@ My research interests are Computer Vision and NLP. Let’s connect if you want t
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=absmahi01&theme=radical" alt="absmahi01" width="600" /></p>
 
-<p align="center">
+<!-- <p align="center">
 
  <img src="https://activity-graph.herokuapp.com/graph?username=absmahi01&theme=react-dark&area=true&hide_border=true" width="100%">
 
-</p>
+</p> -->
  
 
